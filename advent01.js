@@ -1,5 +1,3 @@
-console.log('blah')
-
 const nums = [
 261,
 1773,
